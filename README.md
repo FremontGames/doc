@@ -45,3 +45,5 @@ Game community
 play Streaming
 common Atlas
 dedicated server
+
+Tips for improving your game's ad monetization http://gamasutra.com/blogs/AlbertoScioscia/20160404/269557/7_Easy_to_Implement_Tips_for_Improving_Your_Games_Monetization.php
